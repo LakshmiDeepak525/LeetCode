@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/LakshmiDeepak525/LeetCode/tree/master/0001-two-sum) |
+| [0018-4sum](https://github.com/LakshmiDeepak525/LeetCode/tree/master/0018-4sum) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/LakshmiDeepak525/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/LakshmiDeepak525/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/LakshmiDeepak525/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/LakshmiDeepak525/LeetCode/tree/master/0018-4sum) |
 | [0645-set-mismatch](https://github.com/LakshmiDeepak525/LeetCode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/LakshmiDeepak525/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
@@ -65,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/LakshmiDeepak525/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Two Pointers
+|  |
+| ------- |
+| [0018-4sum](https://github.com/LakshmiDeepak525/LeetCode/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
