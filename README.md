@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/LakshmiDeepak525/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/LakshmiDeepak525/LeetCode/tree/master/0022-generate-parentheses) |
 | [0068-text-justification](https://github.com/LakshmiDeepak525/LeetCode/tree/master/0068-text-justification) |
 ## Sliding Window
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/LakshmiDeepak525/LeetCode/tree/master/0022-generate-parentheses) |
 | [0410-split-array-largest-sum](https://github.com/LakshmiDeepak525/LeetCode/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
@@ -94,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/LakshmiDeepak525/LeetCode/tree/master/0410-split-array-largest-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/LakshmiDeepak525/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
