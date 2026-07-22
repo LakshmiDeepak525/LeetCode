@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/LakshmiDeepak525/LeetCode/tree/master/0018-4sum) |
 | [0066-plus-one](https://github.com/LakshmiDeepak525/LeetCode/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/LakshmiDeepak525/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0410-split-array-largest-sum](https://github.com/LakshmiDeepak525/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/LakshmiDeepak525/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/LakshmiDeepak525/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0636-exclusive-time-of-functions](https://github.com/LakshmiDeepak525/LeetCode/tree/master/0636-exclusive-time-of-functions) |
@@ -74,4 +75,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/LakshmiDeepak525/LeetCode/tree/master/0018-4sum) |
+## Binary Search
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/LakshmiDeepak525/LeetCode/tree/master/0410-split-array-largest-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/LakshmiDeepak525/LeetCode/tree/master/0410-split-array-largest-sum) |
+## Greedy
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/LakshmiDeepak525/LeetCode/tree/master/0410-split-array-largest-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/LakshmiDeepak525/LeetCode/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
