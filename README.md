@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/LakshmiDeepak525/LeetCode/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/LakshmiDeepak525/LeetCode/tree/master/0018-4sum) |
 | [0066-plus-one](https://github.com/LakshmiDeepak525/LeetCode/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/LakshmiDeepak525/LeetCode/tree/master/0068-text-justification) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/LakshmiDeepak525/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0410-split-array-largest-sum](https://github.com/LakshmiDeepak525/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/LakshmiDeepak525/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/LakshmiDeepak525/LeetCode/tree/master/0068-text-justification) |
 | [1441-build-an-array-with-stack-operations](https://github.com/LakshmiDeepak525/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 ## Math
 |  |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/LakshmiDeepak525/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0068-text-justification](https://github.com/LakshmiDeepak525/LeetCode/tree/master/0068-text-justification) |
 ## Sliding Window
 |  |
 | ------- |
